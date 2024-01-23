@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wDUh9b8wTKkT7yUThNM/HV4BZZ8SFrk9U015K8+8tVay+GFunyndwXrk4jeIf8YV7rUwZOJ0JrV+yhuyO0q33A==",
+  "success": true,
+  "projectFilePath": "C:\\sources\\projects\\Test\\02 - TDD\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcio.alves\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\marcio.alves\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\marcio.alves\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\marcio.alves\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\sources\projects\Test\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.deps.json
+C:\sources\projects\Test\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.dll
+C:\sources\projects\Test\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.pdb
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.csproj.AssemblyReference.cache
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.AssemblyInfoInputs.cache
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.AssemblyInfo.cs
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.csproj.CoreCompileInputs.cache
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.dll
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\refint\Features.dll
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.pdb
+C:\sources\projects\Test\01 - Testes de Unidade\Features\obj\Debug\net7.0\ref\Features.dll

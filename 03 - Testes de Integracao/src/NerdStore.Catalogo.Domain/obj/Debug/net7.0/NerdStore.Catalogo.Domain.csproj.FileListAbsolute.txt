@@ -1,0 +1,15 @@
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\net7.0\NerdStore.Catalogo.Domain.deps.json
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\net7.0\NerdStore.Catalogo.Domain.dll
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\net7.0\NerdStore.Catalogo.Domain.pdb
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\net7.0\NerdStore.Core.dll
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\net7.0\NerdStore.Core.pdb
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.dll
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\refint\NerdStore.Catalogo.Domain.dll
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\NerdStore.Catalogo.Domain.pdb
+C:\sources\projects\Test\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\net7.0\ref\NerdStore.Catalogo.Domain.dll
